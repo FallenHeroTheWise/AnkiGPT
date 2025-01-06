@@ -1,0 +1,347 @@
+#separator:tab
+#html:false
+#guid column:1
+#notetype column:2
+#deck column:3
+L]APQnsbzL	Example Sentence	German Language	shutter	der Fensterladen	
+"G>~#niR;aA"	Example Sentence	German Language	confused(k)	konfus	
+zdWl{TSIhE	Example Sentence	German Language	mischievous(v)	verschmitzt	
+"n4?#p.z+z1"	Example Sentence	German Language	afflicted(..h)	behaftet	
+uC(@S4T/p{	Example Sentence	German Language	many a time	des öfteren	
+pLVsDXk&lK	Example Sentence	German Language	If I'm not mistaken ...	Wenn mir recht ist, ...	
+"LMKz~+]#Ed"	Example Sentence	German Language	godfather	der Pate	
+"O=pELd#NX5"	Example Sentence	German Language	polished(a)	abgeschliffen	
+b[7e%J~J`J	Example Sentence	German Language	to smile to oneself(sch)	schmunzeln	
+"v#46QdWytM"	Example Sentence	German Language	allotted	beschieden	
+G2MA^?e*T{	Example Sentence	German Language	verb(z)	das Zeitwort	
+"q{L(>.B(x#"	Example Sentence	German Language	verb(v)	das Verb	
+KVOr.]v;ik	Example Sentence	German Language	yarn(z)	der Zwirn	
+tYZ@pDJ?$S	Example Sentence	German Language	to bow and scrape to sb.	um jdn. scharwenzeln	
+QL:FP:4UZ!	Example Sentence	German Language	to nibble(k)	knabbern	
+K&/H%jw^Y-	Example Sentence	German Language	forever(i)	immerdar	
+e1kY=8U^Z`	Example Sentence	German Language	tail(....ei)	der Schweif	
+Nco9X`fKNe	Example Sentence	German Language	fee(g)	die Gage	
+COz2WjyL%{	Example Sentence	German Language	leichter Stoß gegen die Nase	der Nasenstüber	
+e`kWS8i6~J	Example Sentence	German Language	to beckon sb.	jdm. winken	
+I4/WwHPu-o	Example Sentence	German Language	aufmachen(veraltend)(...t)	auftun	
+Jv7uj3?t$C	Example Sentence	German Language	to procrastinate	verschleppen	
+Q8MhV)NnjR	Example Sentence	German Language	leather(adj.)	ledern	
+"Q#?c2FO%.("	Example Sentence	German Language	authority(o)	die Obrigkeit	
+moU3|Q3Rjj	Example Sentence	German Language	suntan	die Bräune	
+z1:S0+HYrI	Example Sentence	German Language	wrap(w)	der Wickel	
+uzHHPS[tLl	Example Sentence	German Language	estate of a deceased person	der Nachlass	
+Q~y.HTH*]G	Example Sentence	German Language	stature	der Wuchs	
+D;ujX`aja!	Example Sentence	German Language	to despise sb./sth.(...sch)	jdn./etw. verschmähen	
+"JE>zL$G$<#"	Example Sentence	German Language	fateful	schicksalsschwanger	
+M?tT1]u&Y9	Example Sentence	German Language	exhilaration	die Erheiterung	
+fw*kMbYkfV	Example Sentence	German Language	ponytail	der Pferdeschwanz	
+rC5.;Cs33=	Example Sentence	German Language	panties(sch)	der Schlüpfer	
+"j,*b.#*ORF"	Example Sentence	German Language	I feel uneasy.	Mir ist flau im Magen.	
+o4ZaiV.}J7	Example Sentence	German Language	average consumer	Otto Normalverbraucher	
+cdV0E|G4P}	Example Sentence	German Language	beaver	der Biber	
+NiC|O|:;>W	Example Sentence	German Language	out of stock	vergriffen	
+st&4zS}Tv7	Example Sentence	German Language	to silence sb.	jdn. mundtot machen	
+E[vbfXG@Yq	Example Sentence	German Language	necessity-driven	notgedrungen	
+Lf0}yJB4w!	Example Sentence	German Language	above all	erst recht	
+AGwe-UXzYu	Example Sentence	German Language	sales counter	der Verkaufstresen	
+"HkY@PO#zvd"	Example Sentence	German Language	knitting needle	die Stricknadel	
+F,0O.uQ<,g	Example Sentence	German Language	carbon copy	die Durchschrift	
+"Kp::n1#hoF"	Example Sentence	German Language	in a roundabout way	auf Umwegen	
+vQQ.{/1qU^	Example Sentence	German Language	to take a stance on sth.	Stellung beziehen zu etw.	
+LB|Gh{Xv|7	Example Sentence	German Language	to proceed(alt)(v g)	vonstatten gehen	
+"C&duS#/ewa"	Example Sentence	German Language	notorious	verrufen	
+P0MN/.eu+0	Example Sentence	German Language	wholesome(veraltend)(e)	erbaulich	
+P4wz|J,Zq|	Example Sentence	German Language	to exhilarate(b)	beschwingen	
+kx^{I64]xC	Example Sentence	German Language	to exhilarate(e)	erheitern	
+EfB$hfyG>@	Example Sentence	German Language	to encourage sb.	jdm. Mut machen	
+ECs:~8;$3`	Example Sentence	German Language	to have a look at sth.(b.s)	sich etw. besehen	
+KM)e!E:,`,	Example Sentence	German Language	gloved	behandschuht	
+"CER[=,J#OL"	Example Sentence	German Language	a building of lies	das Lügengebäude	
+dNZK}poYCv	Example Sentence	German Language	to anticipate(v)	vorwegnehmen	
+Nk5Mse~NL(	Example Sentence	German Language	mischievous(sch)	schelmisch	
+PFCi>-vJ^q	Example Sentence	German Language	onrush	der Schwall	
+Dk%f,(<;:c	Example Sentence	German Language	to pry sth. away from sb.	jdm. etw. entreißen	
+DY+>J_qOmM	Example Sentence	German Language	reference frame	der Bezugsrahmen	
+PXZ0~Z)!fl	Example Sentence	German Language	to go astray	auf Abwege geraten	
+LQc3ipM?Gz	Example Sentence	German Language	irrevocably	unumstößlich	
+J><deh/+7}	Example Sentence	German Language	to see it in sb.	es jdm. ansehen	
+dNZ=R/,52%	Example Sentence	German Language	to cosy sb. along	jdn. in Sicherheit wiegen	
+"Dk&,eW#cYH"	Example Sentence	German Language	to feel one's way	sich langsam vortasten	
+o68n0{mW<U	Example Sentence	German Language	to wince	zurückschrecken	
+-iW1Iu0Y}	Example Sentence	German Language	inalienable	unveräußerlich	
+LtCz9HSry@	Example Sentence	German Language	act of desperation	die Verzweiflungstat	
+N@S2iu`T+M	Example Sentence	German Language	to dissuade	abbringen	
+f_x7{Z]u]9	Example Sentence	German Language	D-Day	der Stichtag	
+N.;|<t!f&5	Example Sentence	German Language	shady	zwielichtig	
+xnfzdi^C`o	Example Sentence	German Language	rift(z)	das Zerwürfnis	
+bN-N)@VrOd	Example Sentence	German Language	provisions for the journey	die Wegzehrung	
+Rc~uUdoYE,	Example Sentence	German Language	to hitchhike	trampen	
+C;e^K,wMVJ	Example Sentence	German Language	ramshackle(b)	baufällig	
+Is!D`(Mw+$	Example Sentence	German Language	disconcerting(..f)	befremdlich	
+vAE$yB|yH|	Example Sentence	German Language	change of heart	der Sinneswandel	
+kckLt^>y{6	Example Sentence	German Language	to poke around	herumstochern	
+Fi6&XSQ6=x	Example Sentence	German Language	to drill sth. into sb.	jdm. etw. einbläuen	
+Bs-QF|E}?u	Example Sentence	German Language	to fiddle about with	herumhantieren an	
+pw?`QJH1T?	Example Sentence	German Language	validity(st)	die Stichhaltigkeit	
+sr2icP-8!?	Example Sentence	German Language	parket	das Resopal	
+uLe.!dFUlN	Example Sentence	German Language	human trafficking	der Menschenhandel	
+Dc/DpCzTJF	Example Sentence	German Language	counterattack	der Konter	
+K;hmE)k,o,	Example Sentence	German Language	tiles	die Kacheln	
+if&V!JoXjY	Example Sentence	German Language	ajar	angelehnt	
+n&oaiiHV%(	Example Sentence	German Language	stool	der Hocker	
+x9?/M&FCEU	Example Sentence	German Language	to squat down	in die Hocke gehen	
+M@/X`pJ5ap	Example Sentence	German Language	to operate the toilet	die Spülung betätigen	
+j``9[VXrC.	Example Sentence	German Language	stretcher	die Bahre	
+oqd<T3.s&-	Example Sentence	German Language	baton	der Schlagstock	
+"Ky<m#]~70W"	Example Sentence	German Language	to scrape out(...sch)	ausschaben	
+pAJuEX=(q5	Example Sentence	German Language	onset of mature milk	der Milcheinschuss	
+oYHi5jqa7v	Example Sentence	German Language	strip of cloth	der Stoffstreifen	
+z2~TXxLTg[	Example Sentence	German Language	exuberant(....b)	überbordend	
+NlUi@F/TU,	Example Sentence	German Language	old chap	altes Haus	
+rRC@wy<C^1	Example Sentence	German Language	to merge in	aufgehen in	
+J<Cw(*8T1>	Example Sentence	German Language	solder	das Lot	
+mn+]5(C|^Q	Example Sentence	German Language	to be revealed to sb.(e)	sich jdm. erschließen	
+c~}Ty7D:2j	Example Sentence	German Language	so-so	solala	
+"w#$TAgnGQ$"	Example Sentence	German Language	to bring sth. on / upon oneself	sich etw. zuziehen	
+"bY#|1h:a^F"	Example Sentence	German Language	gush(e)	der Erguss	
+sA&4r9Me>I	Example Sentence	German Language	classmate	der Kommilitone	
+zhTlNRJ3/I	Example Sentence	German Language	to shell out sth.(ugs.)	etw. abdrücken	
+rq=7TiL@(b	Example Sentence	German Language	by all accounts	dem Vernehmen nach	
+EJ]>K-CLR[	Example Sentence	German Language	dug-out material	der Aushub	
+G5Qb0sKWIk	Example Sentence	German Language	restrictions(a)	die Auflagen	
+fCC!ZK$uL(	Example Sentence	German Language	glue(l)	der Leim	
+pI+Fr8m]F|	Example Sentence	German Language	afternoon coffee party	das Kaffeekränzchen	
+D@!dV>$Vs1	Example Sentence	German Language	to drool over sb.	jdn. anschmachten	
+sO+_.{%P&`	Example Sentence	German Language	nepotism(v)	die Vetternwirtschaft	
+y~=<(i(XCg	Example Sentence	German Language	resident(adj.)	wohnhaft	
+sE0cbo]y3/	Example Sentence	German Language	accrued	angefallen	
+K@kah/]?w7	Example Sentence	German Language	junk(R)(ugs.)	der Ramsch	
+z^Mpp<_:Ua	Example Sentence	German Language	marqat	die Lichthupe	
+IwBQ$--G.4	Example Sentence	German Language	to tailgate	drängeln	
+tFUB>xjL)u	Example Sentence	German Language	form of address	die Anrede	
+M>sDf7(2(d	Example Sentence	German Language	to suggest sth.(n)	etw. nahelegen	
+f%G}QJB~kN	Example Sentence	German Language	lock, stock and barrel(g b)	in Grund und Boden	
+saGCaH{wtI	Example Sentence	German Language	dumbass(v...p)	der Vollpfosten	
+F9LTShVM%$	Example Sentence	German Language	ejaculation	der Samenerguss	
+n`mvK6<ETF	Example Sentence	German Language	feels	ist  zumute	
+l7OhZ/Y>u1	Example Sentence	German Language	to break away	ausreißen	
+d?9wbb;r|t	Example Sentence	German Language	dandy	stutzerhaft	
+l~Kb3Pmu1m	Example Sentence	German Language	wasteland	die Einöde	
+"z^1S!Vgb#M"	Example Sentence	German Language	carriage(f)	die Fuhre	
+ng/%$L-pjM	Example Sentence	German Language	infirm	siech	
+k]9~A{09I`	Example Sentence	German Language	grief(g)	der Gram	
+i`(k3g]cX[	Example Sentence	German Language	annoyance(v)	der Verdruss	
+dkP3?E(fV5	Example Sentence	German Language	infatuation	die Schwämerei	
+e*ns(NNg!r	Example Sentence	German Language	to fade away	dahinwelken	
+Bywy$DY!~J	Example Sentence	German Language	to grow fond of sb./sth.	jdn./etw. liebgewinnen	
+LdTC+ZEi0d	Example Sentence	German Language	brunette	die Brünette	
+o@~)PpE8F<	Example Sentence	German Language	to contract	zusammenziehen	
+p;7sB)Ri}&	Example Sentence	German Language	straight away	spornstreichs	
+"KY?M`|hK#c"	Example Sentence	German Language	gentleman(k)	der Kavalier	
+q&zYFkz4U6	Example Sentence	German Language	to take sth. to heart	sich etw. zu Gemüte führen	
+twcM0]B53h	Example Sentence	German Language	to turn into a street	einbiegen	
+eJ7`CWlBMh	Example Sentence	German Language	fully(7 letters)	vollauf	
+cXuH]`%^n4	Example Sentence	German Language	pat on the back(sch)	das Schulterklopfen	
+A(m3XU?.Px	Example Sentence	German Language	extra income(z)	das Zubrot	
+ESfbNH$V^B	Example Sentence	German Language	to play fast and loose with sth.	mit etw. Schindluder treiben	
+jCbZ7w,$No	Example Sentence	German Language	to ruin sth.(v..h)	etw. verhunzen	
+iIXQ,4&GK>	Example Sentence	German Language	to smooth sth. out	ausbügeln 	
+J[cLo,}}OI	Example Sentence	German Language	the point of the matter	der springende Punkt	
+gQB3*@[m<[	Example Sentence	German Language	to change sides(3)	die Seiten wechseln	
+t%~w~NfgM1	Example Sentence	German Language	to get under way(g)	in Gang kommen	
+g^aT-aP;Ht	Example Sentence	German Language	to get under way(r)	ins Rollen kommen	
+bzVZJd;Onq	Example Sentence	German Language	docility(f)	die Fügsamkeit	
+mv~iGtq,	Example Sentence	German Language	to fly into a rage(...f)	auffahren	
+excy_+o:%A	Example Sentence	German Language	to be stretched to one's limits	an seine Grenzen stoßen	
+Du9lt:S;Fq	Example Sentence	German Language	mischievous	mutwillig	
+q?P=G{Ig)8	Example Sentence	German Language	picturesque(m)	malerisch	
+s5?7/0bj[l	Example Sentence	German Language	weaving loom	der Webstuhl	
+r]j=;M.M])	Example Sentence	German Language	attire	der Aufzug	
+z~:3mb8E^2	Example Sentence	German Language	white lie	die Notlüge	
+"h5T#fn@[^C"	Example Sentence	German Language	to laugh out loud	laut auflachen	
+El3y28,E&y	Example Sentence	German Language	to become aware of sth.	etw.(genitiv) innewerden	
+ny/zxk.2p+	Example Sentence	German Language	figment	das Gebilde	
+pqG.mj)::B	Example Sentence	German Language	to potter about	herumwirtschaften	
+kwwdTE4~Tl	Example Sentence	German Language	to agonize over sth.	sich mit etw. abquälen	
+w`70Yma2g}	Example Sentence	German Language	grumpy	mürrisch	
+Q6Dm+1twXE	Example Sentence	German Language	to drift toward sb./sth.	jdn./etw. anwehen	
+f6E-avj8c!	Example Sentence	German Language	inaction	das Nichtstun	
+hD`;S_ZlTR	Example Sentence	German Language	torment(p)	die Pein	
+b_M`@wi~:{	Example Sentence	German Language	throughout(h)	hindurch	
+"NZY4#K${W%"	Example Sentence	German Language	offense	das Vergehen	
+GH%j[X<OWe	Example Sentence	German Language	dressing-down(k)	Kopfwäsche	
+N6II}QneVq	Example Sentence	German Language	book cover	der Einband	
+kLkiRx{YFm	Example Sentence	German Language	krafinka	die Karaffe	
+v+]/[Mq_!K	Example Sentence	German Language	to pull oneself together(z n)	sich zusammennehmen	
+KOeBj~9`3x	Example Sentence	German Language	doable(an)	angängig	
+KLKPG,e=E5	Example Sentence	German Language	to send sb. sth.	jdm. etw. zugehen lassen	
+z4r59fbh42	Example Sentence	German Language	eyelashes	die Wimpern	
+n>63&3zQql	Example Sentence	German Language	to disappear from smth.(e)	etw.(gen.) entschwinden	
+Q@1vtYMSF9	Example Sentence	German Language	doormat	der Fußabtreter	
+IgJRz|h1&J	Example Sentence	German Language	at face value	für bare Münze	
+hGD/J/Xn~D	Example Sentence	German Language	railing	das Geländer	
+JWd:TEKMvr	Example Sentence	German Language	scorn	der Hohn	
+qBG0{N]A7>	Example Sentence	German Language	emotion(g.....b)	die Gemütsbewegung	
+AK$wnT}1]r	Example Sentence	German Language	fickle(w)	wetterwendisch	
+N&lJ}~^(ya	Example Sentence	German Language	magnanimous(h)	hochherzig	
+chLz+B-%Ue	Example Sentence	German Language	frail(h)	hinfällig	
+l0<*M@emV)	Example Sentence	German Language	to fade(v..ble)	verbleichen	
+Q4}Cx;|7Zu	Example Sentence	German Language	plaster	der Putz	
+HPiVGZw2+~	Example Sentence	German Language	altar	der Altar	
+A[5q^U8bNN	Example Sentence	German Language	sandwich(st)	die Stulle	
+K@Tbd|lt<I	Example Sentence	German Language	infusion	der Aufguss	
+Hy!DN2VU3o	Example Sentence	German Language	pregnant(animal)	trächtig	
+oC,!/nk6np	Example Sentence	German Language	finder's reward	der Finderlohn	
+FrL|*E~MOC	Example Sentence	German Language	tin can(.....k)	die Blechkiste	
+mH_twSJ1;u	Example Sentence	German Language	curly haired person	der Lockenkopf	
+f/v%14y)Yo	Example Sentence	German Language	military staff	der Generalstab	
+x)Ny6;1rM3	Example Sentence	German Language	to be done for	im Eimer sein	
+s@;3WY/!EE	Example Sentence	German Language	to commit sb. to sth.	jdn. auf etw. einschwören	
+gR[?lsL)KS	Example Sentence	German Language	to require sb./sth.	jds./etw. bedürfen	
+uI;BBNNrXe	Example Sentence	German Language	haphazardly	ins Blaue hinein	
+f&:asJ4BcG	Example Sentence	German Language	lock, stock, and barrel(b b)	in Bausch und Bogen	
+z56WjCB~2R	Example Sentence	German Language	lost(2)	abhanden gekommen	
+J9quwCfQ~x	Example Sentence	German Language	faithfully(g)	getreulich	
+x[YHLoz}]Q	Example Sentence	German Language	downpour	der Wolkenbruch	
+tQQ<!T(k_+	Example Sentence	German Language	sentimentality(r)	die Rührseligkeit	
+Gj!zn:jk~_	Example Sentence	German Language	to find accommodation	unterkommen	
+nC9J[;&KMK	Example Sentence	German Language	to choke sb.	jdm. die Kehle zuschnüren	
+"CVy#@(Xb!-"	Example Sentence	German Language	as of now	nunmehr	
+"j#9:7V1zf8"	Example Sentence	German Language	blow with a rifle butt	der Kolbenhieb	
+i*lRKZdxc]	Example Sentence	German Language	to claim sb.'s life	jdn. in den Tod reißen	
+d1>7zxm1j9	Example Sentence	German Language	to agree with sb.	jdm. bekommen	
+Q=mai?c!Jf	Example Sentence	German Language	idleness	der Müßiggang	
+JeNv4%+5r,	Example Sentence	German Language	to scheme	Ränke schmieden	
+"bMrO#@,anA"	Example Sentence	German Language	commitment	die Hingabe	
+k^+ER*<1hY	Example Sentence	German Language	graceful	die Anmutig	
+Oat{Uz}F0q	Example Sentence	German Language	to scare away(v..sch)	verscheuchen	
+pj2dtfwT51	Example Sentence	German Language	to relent	sich erweichen lassen	
+Op<)z=*IId	Example Sentence	German Language	to happen(u)	unterlaufen	
+c@jF7pRp/s	Example Sentence	German Language	to dish up	auftragen	
+s2o*vgDRfm	Example Sentence	German Language	to pass the time(h)	die Zeit herumbringen	
+G6=VIhcNKb	Example Sentence	German Language	to dab sth. off	etw. abtupfen	
+e2W:J6RjU	Example Sentence	German Language	to keep an account	Buch führen	
+gT]ftU{2cY	Example Sentence	German Language	creamy(.ä)	sämig	
+AJ):?9RB%`	Example Sentence	German Language	to swerve	einen Schlenker machen	
+sI6*6g}vVp	Example Sentence	German Language	to allow sth.(.i)	einräumen	
+dVM90Uqs5O	Example Sentence	German Language	right and proper	recht und billig	
+mA|RCKx8Z+	Example Sentence	German Language	equation	die Gleichung	
+"F8x#5VN[+H"	Example Sentence	German Language	to spread(s)	spreizen	
+K6t>^A+m@I	Example Sentence	German Language	to act contrary to sth.	etw. zuwiderhandeln	
+E1(O&bB3{R	Example Sentence	German Language	grayness(f)	die Fahlheit	
+pGK@$T`]Mi	Example Sentence	German Language	chandelier	der Kronleuchter	
+i45k4bQhW:	Example Sentence	German Language	flashcard(k)	die Karteikarte	
+Q8>we/97zn	Example Sentence	German Language	All Hallows' Day	das Allerheiligen	
+HgH@*GQNFW	Example Sentence	German Language	to sell off(.b)	abstoßen	
+Cs2~]V>ax^	Example Sentence	German Language	impartiality	die Unparteilichkeit	
+ek2yrPX03B	Example Sentence	German Language	to let sb. have free rein	jdn. schalten und walten lassen	
+P3fVSbv^vD	Example Sentence	German Language	to quarantine sb.	jdn. internieren	
+f+6$hAId91	Example Sentence	German Language	ladle	der Schöpflöffel	
+z-&<wFa$H%	Example Sentence	German Language	bowl(k)	der Kessel	
+o|TJA4Sh$E	Example Sentence	German Language	to ostracize(v)	verfemen	
+"o#-m*&D^=;"	Example Sentence	German Language	animal feeder	die Futterkrippe	
+LENQwvk(kk	Example Sentence	German Language	It is necessary to ...	Es gilt, ... zu ...	
+"Oknw[-}x#b"	Example Sentence	German Language	to put sb. off his / her stride	jdn. aus dem Tritt bringen	
+HG/{4tqc%R	Example Sentence	German Language	to consider sth.(w)	etw. wägen	
+c0YQs?YQWw	Example Sentence	German Language	murky(v)	verhangen	
+f%)WQY.>3]	Example Sentence	German Language	metallic	metallen	
+LH]_lm@S`U	Example Sentence	German Language	woodwork	das Gebälk	
+AJ|6!y186W	Example Sentence	German Language	lining	das Futter	
+sj_J8y2R$b	Example Sentence	German Language	without further ado	ohne langes Federlesen	
+f~0V7g:^:.	Example Sentence	German Language	heretic	der Ketzer	
+r*L^P%n9-b	Example Sentence	German Language	booze(f)	der Fusel	
+n_7NH?<<u/	Example Sentence	German Language	cockroach(.ü)	die Küchenschabe	
+d=S6&}Dh!9	Example Sentence	German Language	casing	das Gehäuse	
+iP1%XmU^TI	Example Sentence	German Language	anew	abermals	
+x-3v+tGxsz	Example Sentence	German Language	thingy	das Dings	
+J%?n;?}A.%	Example Sentence	German Language	ramshackle(m)	morsch	
+Kgu_usOniM	Example Sentence	German Language	blow(h)	der Hieb	
+"s=Y4T#xxD]"	Example Sentence	German Language	bombshell	der Knalleffekt	
+tYcK*Zs^+y	Example Sentence	German Language	unexpectedly(..v)	unversehens	
+CjI=j]hDhX	Example Sentence	German Language	to line sth.	füttern	
+g:uq9,Ofy2	Example Sentence	German Language	halberd	die Hellebarde	
+C?-<{h-:m_	Example Sentence	German Language	to like doing sth.(b)(veraltend)	belieben, etw. zu tun	
+x.%iaj:w3@	Example Sentence	German Language	fairly long time(g)	eine geraume Zeite	
+vRoV@d!wn:	Example Sentence	German Language	Irrespective of whether ...	gleichviel, ob ... oder nicht	
+DnT^F8fXma	Example Sentence	German Language	to stitch(s..p)	steppen	
+G5C(Tkk-|2	Example Sentence	German Language	In short, ...	Kurzum, ...	
+K).OfFrQ@g	Example Sentence	German Language	specifically(e)	eigens	
+pbTK(Gsi+?	Example Sentence	German Language	fraction	der Bruchteil	
+x6}?$*TRI/	Example Sentence	German Language	to abdicate(..d)	abdanken	
+d[1gf@m@^h	Example Sentence	German Language	as if(w w)	wie wenn	
+"cVfPoB#KH!"	Example Sentence	German Language	as if(a o)	als ob	
+eB(a*kR%^k	Example Sentence	German Language	to go / set about sth.	etw. anpacken	
+eQi*:p!f~0	Example Sentence	German Language	to live large	auf großem Fuß leben	
+cD2Va1M:2c	Example Sentence	German Language	to dust down	abklopfen	
+b{l[7@f+V2	Example Sentence	German Language	excellent(t)	trefflich	
+B^z1126U,f	Example Sentence	German Language	How the hell ...	Wie in drei Teufels Namen ...	
+Eu]B%$f)$1	Example Sentence	German Language	to arrest(a)	arretieren	
+tNj0^6T%lC	Example Sentence	German Language	treachery(h)	die Heimtücke	
+sNc8Rg6J!H	Example Sentence	German Language	turnik	das Reck	
+y$K0?c[46g	Example Sentence	German Language	lure(l)	der Lockvogel	
+F)y&h2nHEM	Example Sentence	German Language	disgrace(b)	die Blamage	
+MTuhV0!BP_	Example Sentence	German Language	ejection seat	der Schleudersitz	
+xJ`r|$lsP2	Example Sentence	German Language	operating time	die Betriebsdauer	
+odxv[oEap{	Example Sentence	German Language	to thin out	ausdünnen	
+M$BFU`)m3e	Example Sentence	German Language	to publicize sth.	publik machen	
+s,tIs?6!+c	Example Sentence	German Language	to omit sth.	versäumen	
+mWZXsIXL$%	Example Sentence	German Language	overprotected	überbehütet	
++f%n~JchL	Example Sentence	German Language	hornet	die Hornisse	
+Je3?__D5H<	Example Sentence	German Language	crane(bird)	der Kranich	
+"fqlYykI#ie"	Example Sentence	German Language	to hold sb. accountable	jdn. zur Verantwortung ziehen	
+n`dx5~;GSY	Example Sentence	German Language	101	das Einmaleins	
+AJ<hUO`;_3	Example Sentence	German Language	away	von dannen	
+H!E]Y|T-U(	Example Sentence	German Language	to obtain sth.	etw. erwirken	
+z3mia5c2&:	Example Sentence	German Language	free rein	freie Bahn	
+ws$^L8{:M[	Example Sentence	German Language	to pull at sb.'s heartstrings	bei jdm. auf die Tränendrüse drücken	
+x;Gh(r<FJ@	Example Sentence	German Language	honorary	ehrenhalber	
+ko:m^~v$Ef	Example Sentence	German Language	to hold the reins	alle Fäden fest in der Hand halten	
+hkr8I3`^p	Example Sentence	German Language	brisk	flott	
+f[r;8Lg;5i	Example Sentence	German Language	no ifs, no buts	ohne Wenn und Aber	
+zRSgSG+Xrh	Example Sentence	German Language	to come to grief	zu Schaden kommen	
+pkVgGGwUv<	Example Sentence	German Language	The end justifies the means.	Der Zweck heiligt die Mittel.	
+cB_ZX$k|HL	Example Sentence	German Language	to become shaky	ins Wanken geraten	
+ci{<9pmb-(	Example Sentence	German Language	outsized	übergroß	
+fhrlLy}b`R	Example Sentence	German Language	capture	Einnahme	
+mh;O(nH+s%	Example Sentence	German Language	to have had enough	die Nase voll haben	
+Rb1Czmp/i@	Example Sentence	German Language	puss	das Miezchen	
+MV^o<WLEHd	Example Sentence	German Language	in court	vor Gericht	
+"ATG#pG5XWz"	Example Sentence	German Language	to be away	auf Reisen sein	
+~{Y`6DILt	Example Sentence	German Language	everywhere	allerorts	
+Bv/C{O&V4X	Example Sentence	German Language	to be detrimental to sth.	etw. zum Nachteil gereichen	
+pDtb+r4?>_	Example Sentence	German Language	to feed sb.	jdn. durchfüttern	
+"tT#y0:(Uo}"	Example Sentence	German Language	nerve	der Nerv	
+QN2z(oh_}{	Example Sentence	German Language	vigor	der Elan	
+K1p5X9oD@M	Example Sentence	German Language	Cling together, swing together!	Mitgefangen, mitgehangen!	
+s^{?d:R{`P	Example Sentence	German Language	glorious	glorreich	
+gNgGV`k(@?	Example Sentence	German Language	reserved(z)	zugeknöpft	
+hT*1?Hs!1$	Example Sentence	German Language	in the nick of time	auf den letzten Drücker	
+q=KzWM}j5h	Example Sentence	German Language	There is no way around ...	Es führt kein Weg vorbei an ...	
+D3*/(^_&^p	Example Sentence	German Language	to arm	aufrüsten	
+NLE|QP+Cs]	Example Sentence	German Language	brittle(b)	brüchig	
+gG0YVGC]X*	Example Sentence	German Language	ceasefire(......r)	 die Waffenruhe	
+nr+oi0Kg@c	Example Sentence	German Language	ceasefire(......s)	der Waffenstillstand	
+z4U9T})eH~	Example Sentence	German Language	behind the curtain	hinter den Kulissen	
+"Ls_V_<#y;E"	Example Sentence	German Language	international law	das Völkerrecht	
+O/SVhBty<g	Example Sentence	German Language	It's all over.	Die Sache ist gelaufen.	
+tKK$U2On[W	Example Sentence	German Language	crucial point(kn)	der Knackpunkt	
+t0fAzaYscA	Example Sentence	German Language	raison d'état	die Staatsräson	
+PbX7R4lM&Q	Example Sentence	German Language	to keep sth.	etw. wahren	
+q!BCuD^yAV	Example Sentence	German Language	slogan	 die Parole	
+itiHPAAckz	Example Sentence	German Language	to deny sb. sth.	jdm. etw. absprechen	
+mEDF|Tw@UT	Example Sentence	German Language	That can be deduced from sth.	Das lässt sich an etw. ablesen.	
+I@750lHhxF	Example Sentence	German Language	to intertwine	ineinandergreifen	
+gg|<?veeSc	Example Sentence	German Language	indication	die Indikationsstellung	
+"n#~F2@2MO&"	Example Sentence	German Language	to be a recipe for sth.	etw. Tür und Tor öffnen	
+KE3{ECOWbU	Example Sentence	German Language	synopsis	die Zusammenschau	
+epB]eObTo!	Example Sentence	German Language	assembly belt	das Fließband	
+J.`Jc;B|}7	Example Sentence	German Language	to blow up in sb.'s face	jdm. auf die Füße fallen	
+tarNPpKmS~	Example Sentence	German Language	to inform oneself	sich aufschlauen	
+qU_~6qFQrc	Example Sentence	German Language	to circumvent(.n)	unterlaufen	
+"c#*ReF[j|<"	Example Sentence	German Language	eye-catching	plakativ	
+v:O@~qy,nP	Example Sentence	German Language	occasional	vereinzelt	1. Vereinzelt sieht man in der Stadt bunte Graffitis an den Wänden, die das Stadtbild auflockern.   2. Während des Gesprächs kamen vereinzelt Nachfragen aus dem Publikum, die das Thema vertieften.   3. An diesem Ort fanden sich vereinzelt alte Bäume, die Zeugen der vergangenen Jahrhunderte sind.      Bedeutung: Etwas passiert oder erscheint sporadisch und nicht in großer Häufigkeit.
+w6}f]A}G}1	Example Sentence	German Language	fee	das Honorar	
+b7>R{Z;Pt`	Example Sentence	German Language	to be allotted to sb./sth.	auf jdn./etw. entfallen	
+stHf)UJoyX	Example Sentence	German Language	the Western world	das Abendland	
+QH8O+H~^VY	Example Sentence	German Language	convoluted(v)	verschachtelt	
+"s<aJ#:G%bS"	Example Sentence	German Language	constipation(v)	die Verstopfung	
