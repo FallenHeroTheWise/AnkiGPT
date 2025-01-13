@@ -19,13 +19,19 @@ def compute(word):
         model="gpt-4o-mini",
         messages=[
             {"role": "developer",
-             "content": "Der Benutzer möchte immer drei Beispielsätze und eine kurze Bedeutung, in dem Teil Bedeutung sollte das Wort selbst nicht erwähnt sein"},
+             "content": "Der Benutzer möchte immer drei Beispielsätze, in denen das Beispielwort mit '<span class=clozed>' und '</span>' umgeben ist, und eine kurze Bedeutung, in dem Teil Bedeutung sollte das Wort selbst nicht erwähnt sein"},
+
+            {
+                "role": "assistant",
+                "content": [{"type": "text", "text": "1. Die Kellnerin war äußerst <span class=clozed>zuvorkommend</span> und las uns jeden Wunsch von den Lippen ab.<br><br>2. Er zeigte sich als sehr <span class=clozed>zuvorkommend</span>, indem er der alten Dame die Tür aufhielt.<br><br>3. Sein <span class=clozed>zuvorkommendes</span> Verhalten machte einen positiven Eindruck auf alle.<br><br><br><br>Bedeutung: Höflich, hilfsbereit und darauf bedacht, den Wünschen anderer entgegenzukommen."}]
+            },
+
             {
                 "role": "user",
                 "content": word
             }
         ],
-        max_completion_tokens=300,
+        max_completion_tokens=500,
         n=1,
 
     )
@@ -46,7 +52,9 @@ def ankii():
             word=split_line[4]
 
             if True:
-                example_sentence = compute(word).replace('\n', '   ')
+                example_sentence = compute(word).replace('\n', '<br>')
+                if len(word) == 1000:
+                    example_sentence.replace(word, f'<span class=clozed>{word}</span>')
 
 
 
@@ -57,8 +65,8 @@ def ankii():
             edited_lines.append(line)
 
     with open("EditedNotes.txt", "w") as file:
-        file.write('\n'.join(edited_lines))
-
+        with open("EditedNotes.txt", "w", encoding="cp1252", errors="ignore") as file:
+            file.write('\n'.join(edited_lines))
 
 
 # Press the green button in the gutter to run the script.
