@@ -7,6 +7,22 @@ from pprint import pprint
 client = OpenAI(
         api_key=""
     )
+pattern = re.compile(r'<span class=clozed>(.+?)</span>')
+
+
+def process_clozed_span(match):
+    """
+    This function is called for every match found by re.sub().
+    It takes the content, splits it into words, and wraps each word
+    in its own clozed span.
+    """
+    # group(1) contains the text captured inside the parentheses of our pattern
+    # e.g., "bei Hempels unterm Sofa"
+    content = match.group(1)
+
+    # Split the content into a list of words
+    # e.g., ['bei', 'Hempels', 'unterm', 'Sofa']
+    words = content.split()
 
 
 
