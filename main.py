@@ -4,6 +4,8 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 from openai import OpenAI
 from pprint import pprint
+import google.generativeai as genai
+import re
 client = OpenAI(
         api_key=""
     )
@@ -24,6 +26,12 @@ def process_clozed_span(match):
     # e.g., ['bei', 'Hempels', 'unterm', 'Sofa']
     words = content.split()
 
+    # Create a new list where each word is wrapped in a span tag
+    wrapped_words = [f'<span class=clozed>{word}</span>' for word in words]
+
+    # Join the list of wrapped words back into a single string with spaces
+    # e.g., "<span class=clozed>bei</span> <span class=clozed>Hempels</span> ..."
+    return ' '.join(wrapped_words)
 
 
 def compute_gemini(word):
@@ -119,7 +127,7 @@ def ankii():
 
     with open("EditedNotes.txt", "w") as file:
         with open("EditedNotes.txt", "w", encoding="cp1252", errors="ignore") as file:
-            file.write('\n'.join(edited_lines))
+            file.write(pattern.sub(process_clozed_span, '\n'.join(edited_lines)))
 
 
 # Press the green button in the gutter to run the script.
