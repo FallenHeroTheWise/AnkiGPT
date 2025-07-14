@@ -10,7 +10,44 @@ client = OpenAI(
 
 
 
+def compute_gemini(word):
+    model = genai.GenerativeModel('gemini-2.5-flash')  # Or 'gemini-1.5-pro' for more advanced capabilities
 
+    # Gemini's prompt structure is slightly different.
+    # We'll use a chat-like format for turn-based conversation.
+    messages = [
+        {"role": "user",
+         "parts": [
+             "Der Benutzer möchte immer drei Beispielsätze, in denen das Beispielwort mit '<span class=clozed>' und '</span>' umgeben ist, und eine kurze Bedeutung, in dem Teil Bedeutung sollte das Wort selbst nicht erwähnt sein"]},
+        {"role": "user",
+         "parts": [
+             "zuvorkommend"]},
+        {"role": "model",
+         "parts": [
+             "1. Die Kellnerin war äußerst <span class=clozed>zuvorkommend</span> und las uns jeden Wunsch von den Lippen ab.<br><br>2. Er zeigte sich als sehr <span class=clozed>zuvorkommend</span>, indem er der alten Dame die Tür aufhielt.<br><br>3. Sein <span class=clozed>zuvorkommendes</span> Verhalten machte einen positiven Eindruck auf alle.<br><br><br><br>Bedeutung: Höflich, hilfsbereit und darauf bedacht, den Wünschen anderer entgegenzukommen."]},
+        {"role": "user",
+         "parts": [
+             "im Begriff sein, etw. zu tun"]},
+        {"role": "model",
+         "parts": [
+             "1. Er war <span class=clozed>im Begriff</span>, das Büro zu verlassen, als sein Telefon klingelte.\n\n2. Sie ist <span class=clozed>im Begriff</span>, die letzte Entscheidung zu treffen, also sei leise.\n\n3. Wir waren <span class=clozed>im Begriff</span>, die Sitzung zu beenden, als der Chef noch eine Ankündigung machte.\n\nBedeutung: Kurz davor stehen, eine Handlung auszuführen oder eine Entscheidung zu treffen."]},
+
+        {"role": "user",
+         "parts": [word]}
+    ]
+
+    response = model.generate_content(
+        messages,
+        generation_config=genai.types.GenerationConfig(
+            max_output_tokens=1000000,
+            temperature=1  # You might want to adjust this for creativity/determinism
+        )
+    )
+
+
+    # The way to access the generated text is different for Gemini
+
+    return response.candidates[0].content.parts[0].text
 
 def compute(word):
 
