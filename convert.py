@@ -17,10 +17,9 @@ from_codec = get_encoding_type(srcfile)
 try: 
     with open(srcfile, 'r', encoding=from_codec) as f, open(trgfile, 'w', encoding='utf-8') as e:
         text = f.read() # for small files, for big use chunks
-        e.write(text)
+        e.write(text.replace("Ã¼", "ü").replace("Ã¶", "ö").replace("Ã¤", 'ä').replace('ÃŸ', "ß"))
 
-    os.remove(srcfile) # remove old encoding file
-    os.rename(trgfile, srcfile) # rename new encoding
+
 except UnicodeDecodeError:
     print('Decode Error')
 except UnicodeEncodeError:
